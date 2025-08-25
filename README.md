@@ -11,6 +11,7 @@ La Remise est un tiers-lieu associatif installé dans un ancien entrepôt : un a
 - [Louer la salle](louer-la-salle.md)
 - [Tarifs](tarifs.md)
 - [En cas de problème](en-cas-de-probleme.md)
+- [Contacts](contacts.md)
 
 ## Horaires des permanences
 
