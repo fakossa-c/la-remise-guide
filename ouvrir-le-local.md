@@ -9,4 +9,4 @@
 5. Sortez le chevalet « Ouvert » sur le trottoir.
 6. Notez votre nom et l'heure dans le cahier de permanence, sur le comptoir.
 
-Le samedi, la permanence commence à 9 h.
+Le samedi, la permanence commence à 9 h 30.

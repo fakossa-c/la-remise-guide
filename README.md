@@ -17,7 +17,7 @@ La Remise est un tiers-lieu associatif installé dans un ancien entrepôt : un a
 
 - Mercredi : 14 h - 19 h
 - Vendredi : 17 h - 21 h
-- Samedi : 9 h - 18 h
+- Samedi : 9 h 30 - 18 h
 
 ## Modifier ce guide
 
