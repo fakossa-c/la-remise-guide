@@ -27,3 +27,7 @@ Une règle : une branche par changement, jamais de modification directe sur `mai
 2. Faites vos modifications, avec des messages de commit qui disent ce qui change.
 3. Ouvrez une pull request vers `main`, et fusionnez-la une fois relue.
 4. Supprimez la branche.
+
+## Qui s'occupe du guide
+
+Hugo, qui a créé ce guide, est parti à Nantes en juin 2026. Le bureau cherche un ou une bénévole pour le reprendre.
